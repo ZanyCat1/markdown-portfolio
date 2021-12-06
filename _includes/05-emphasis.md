@@ -1,1 +1,20 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+# Skills
+
+Below is a *list* of my **technical** skills:
+
+## Programming languages
+- VBA
+- Python
+- Java
+
+## LinkedIn Learnings completed
+- GitHub (in progress)
+- Docker
+- VBA
+- Python
+- Java
+- IntelliJ
+- NetBeans
+- SQL
+- Object-Oriented Programming Foundations
+- 
