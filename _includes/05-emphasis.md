@@ -8,7 +8,7 @@ Below is a *list* of my **technical** skills:
 - Java
 
 ## LinkedIn Learnings completed
-- GitHub (in progress)
+- Learning GitHub
 - Docker
 - VBA
 - Python
@@ -17,4 +17,3 @@ Below is a *list* of my **technical** skills:
 - NetBeans
 - SQL
 - Object-Oriented Programming Foundations
-- 
